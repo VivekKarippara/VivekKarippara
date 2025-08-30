@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VivekKarippara
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning MS Excel, MySQL, Python
+- 🌱 I’m currently learning MS Excel, MySQL, Python, Power BI
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me? You can reach on my email ID 
 - 😄 Pronouns: He / Him
